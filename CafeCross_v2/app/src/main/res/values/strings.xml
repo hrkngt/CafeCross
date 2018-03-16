@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">café CROSS</string>
+    <string name="cafe_title">café CROSS</string>
+    <string name="purchase">購入</string>
+
+    <string name="header_name">お名前：</string>
+    <string name="header_zip">郵便番号：</string>
+    <string name="header_prefecture">都道府県：</string>
+    <string name="header_address1">ご住所１：</string>
+    <string name="header_address2">ご住所２：</string>
+    <string name="header_company">会社：（任意）</string>
+    <string name="header_phone">電話番号：</string>
+    <string name="header_items_ordered">ご注文：</string>
+    <string name="header_comments">コメント：</string>
+    <string name="header_email">メールアドレス：</string>
+    <string name="header_apartment">マンション・アパート名：　〇〇号室</string>
+
+    <string name="example_comment">例）すべて豆の状態がよい。</string>
+    <string name="confirm_order">ご注文を確定する</string>
+    <string name="go_to_shopping_cart">カート確認へ</string>
+    <string name="go_next">次へ</string>
+    <string name="no_item">現在お客様のカートに商品はありません。</string>
+    <string name="go_back_to_shopping">買い物に戻る</string>
+    <string name="put_into_cart">カートに追加する</string>
+    <string name="remove_from_cart">削除</string>
+    <string name="proceed_to_checkout">購入画面を進む</string>
+    <string name="thanks_for_order">ご注文ありがとうございました。</string>
+    <string name="go_back_to_main">ホームに戻る</string>
+    <string name="last_name">姓</string>
+    <string name="first_name">名</string>
+    <string name="email">メールアドレス：</string>
+    <string name="to_home">ホーム</string>
+
+</resources>
